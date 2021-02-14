@@ -1,0 +1,2 @@
+D:\doucument for my.cpp\binary.cpp\Debug\binary.cpp.exe
+D:\doucument for my.cpp\binary.cpp\Debug\binary.cpp.pdb
